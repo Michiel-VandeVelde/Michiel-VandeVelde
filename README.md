@@ -62,23 +62,6 @@ I enjoy breaking complex systems into **boring, predictable, well-documented inf
 - Building internal tooling that removes friction for developers  
 - Exploring cloud-native and GitOps patterns  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Michiel-VandeVelde&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michiel-VandeVelde&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Michiel-VandeVelde&theme=tokyo-night" />
-</p>
-
----
 
 <p align="center">
   <strong>Always open to collaboration on Cloud, DevOps & Open Source projects!</strong>
