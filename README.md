@@ -62,7 +62,7 @@ I enjoy breaking complex systems into **boring, predictable, well-documented inf
 - Building internal tooling that removes friction for developers  
 - Exploring cloud-native and GitOps patterns  
 
-
+---
 <p align="center">
   <strong>Always open to collaboration on Cloud, DevOps & Open Source projects!</strong>
 </p>
