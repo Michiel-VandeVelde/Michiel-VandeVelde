@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Michiel Van de Velde an enthousiastic Cloud/Devops engineer that loves working on Open Source!
 
 <!--
 **Michiel-VandeVelde/Michiel-VandeVelde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
