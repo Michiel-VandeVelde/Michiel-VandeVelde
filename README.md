@@ -35,6 +35,12 @@ I enjoy breaking complex systems into **boring, predictable, well-documented inf
 > Infrastructure should be boring. Automation should be elegant.
 
 ---
+## 🎧 The Open Source
+A curated playlist made by yours truly!
+
+[![Spotify](https://img.shields.io/badge/Spotify-Open_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](
+https://open.spotify.com/playlist/7BVlPHsoGk6hp4FTFirXVx
+)
 
 ## 🛠️ Tech Stack
 
@@ -63,6 +69,9 @@ I enjoy breaking complex systems into **boring, predictable, well-documented inf
 - Exploring cloud-native and GitOps patterns  
 
 ---
+
+
+
 <p align="center">
   <strong>Always open to collaboration on Cloud, DevOps & Open Source projects!</strong>
 </p>
