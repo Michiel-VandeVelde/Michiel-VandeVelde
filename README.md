@@ -38,7 +38,7 @@ I enjoy breaking complex systems into **boring, predictable, well-documented inf
 ## 🎧 The Open Source
 A curated playlist made by yours truly!
 
-[![Spotify](https://img.shields.io/badge/Spotify-Open_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](
+[![Spotify](https://img.shields.io/badge/Spotify-The_Open_Source-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](
 https://open.spotify.com/playlist/7BVlPHsoGk6hp4FTFirXVx
 )
 
