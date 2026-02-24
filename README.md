@@ -23,7 +23,7 @@
 
 ## 🧠 About me
 
-I'm an enthusiastic **Cloud / DevOps engineer** with a strong focus on:
+I'm an enthusiastic **Cloud / DevOps engineer**, currently an intern at Imec-IDlab with a strong focus on:
 
 - Infrastructure as Code  
 - Automation & CI/CD pipelines  
@@ -32,7 +32,7 @@ I'm an enthusiastic **Cloud / DevOps engineer** with a strong focus on:
 
 I enjoy breaking complex systems into **boring, predictable, well-documented infrastructure**, and contributing improvements back to **Open Source** whenever possible.
 
-> Infrastructure should be boring. Automation should be elegant.
+> Infrastructure should be boring! Don't try to over-optimize when it's not necessary...
 
 ---
 ## 🎧 The Open Source
@@ -62,11 +62,11 @@ https://open.spotify.com/playlist/7BVlPHsoGk6hp4FTFirXVx
 
 ## 🚀 What I like working on
 
-- Designing CI/CD pipelines that scale with teams  
+- Designing CI/CD pipelines
 - Automating infrastructure provisioning and deployments  
 - Improving reliability, observability and reproducibility  
 - Building internal tooling that removes friction for developers  
-- Exploring cloud-native and GitOps patterns  
+- OPEN SOURCE!  
 
 ---
 
