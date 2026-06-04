@@ -84,13 +84,6 @@ A fully automated development platform. One `terraform apply` from bare metal to
 
 ---
 
-## 📌 Other Work
-
-| Repo | Description |
-|---|---|
-| [Imec-IDLab](https://github.com/Michiel-VandeVelde/Imec-IDLab) | Internship documentation — research infrastructure & knowledge graph development |
-| [Thesis](https://github.com/Michiel-VandeVelde/Thesis) | Bachelor's thesis written at imec-IDLab |
-
 ---
 
 <p align="center">
