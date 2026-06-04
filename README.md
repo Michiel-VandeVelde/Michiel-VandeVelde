@@ -4,15 +4,6 @@
   Cloud & DevOps Engineer · imec-IDLab · Open Source Enthusiast
 </p>
 
-<p align="center">
-  <a href="https://be.linkedin.com/in/michiel-van-de-velde-1a9962388">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://open.spotify.com/playlist/7BVlPHsoGk6hp4FTFirXVx">
-    <img src="https://img.shields.io/badge/Spotify-The_Open_Source-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 I build infrastructure that's **boring on purpose**, reproducible, automated, and well-documented. Currently working at **imec-IDLab**, one of the world's leading R&D hubs for semiconductors and other technology 5-10 years ahead of whats currently on the market, where I work on research infrastructure and a funded knowledge graph project on top of GitLab.
