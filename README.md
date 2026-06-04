@@ -23,7 +23,7 @@ I build infrastructure that's **boring on purpose**, reproducible, automated, an
 
 **Knowledge Graph layer for GitLab** *(funded research + paper)*
 
-Large engineering teams at imec self-host GitLab across multiple research groups. A single change can have significant downstream impact — but that impact isn't queryable anywhere.
+Large engineering teams at imec self-host GitLab across multiple research groups. A single change can have significant downstream impact, but that impact isn't queryable anywhere.
 
 I'm building a lightweight **RDF-based knowledge graph** that sits on top of GitLab workflows, capturing company-specific ontologies: which components are high-risk, who owns what, what depends on what. Semantic metadata is automatically generated during commits and CI/CD runs — making system relationships **explicit and machine-readable** for the first time.
 
@@ -37,9 +37,9 @@ This work is part of broader research into improving AI systems with knowledge g
 
 ---
 
-##  Featured Project — Hephaestus
+##  Featured Project: Hephaestus
 
-A fully automated development platform. One `terraform apply` from bare metal to a running DevOps stack, built as the foundation for the GitLab platform I'll be developing at Odisee Co-Create.
+A fully automated development platform. One `terraform apply` from bare metal to a running DevOps stack, built as the foundation for the GitLab KG-platform i'm developing for Gitlab Co-Create 
 
 **What it provisions:**
 - **GitLab CE** — self-hosted Git, CI/CD, container registry
