@@ -15,7 +15,7 @@
 
 ---
 
-I build infrastructure that's **boring on purpose** — reproducible, automated, and well-documented. Currently interning at **imec-IDLab**, one of the world's leading R&D hubs for semiconductors and other technology 5-10 years ahead of whats currently on the market, where I work on research infrastructure and a funded knowledge graph project on top of GitLab.
+I build infrastructure that's **boring on purpose**, reproducible, automated, and well-documented. Currently working at **imec-IDLab**, one of the world's leading R&D hubs for semiconductors and other technology 5-10 years ahead of whats currently on the market, where I work on research infrastructure and a funded knowledge graph project on top of GitLab.
 
 ---
 
