@@ -1,7 +1,7 @@
 <h1 align="center">Michiel Van de Velde</h1>
 
 <p align="center">
-  Cloud & DevOps Engineer · Intern at imec-IDLab · Open Source Enthusiast
+  Cloud & DevOps Engineer · imec-IDLab · Open Source Enthusiast
 </p>
 
 <p align="center">
