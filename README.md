@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="mario.gif" alt="Mario GIF" width="100%" />
+</p>
+
+
 <h1 align="center">Michiel Van de Velde</h1>
+
 
 <p align="center">
   Cloud & DevOps Engineer · imec-IDLab · Open Source Enthusiast
