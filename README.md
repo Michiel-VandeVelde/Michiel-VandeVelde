@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>A systems thinker learning in public.</i>
+  <i>A <b>systems</b> thinker learning in <b>public</b>.</i>
 </p>
 
 <br>
