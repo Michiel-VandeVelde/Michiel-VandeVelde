@@ -36,7 +36,7 @@
   <b>imec-IDLab</b>, where I got exposed to digital sovereignty, security, and the idea<br>
   that the web doesn't have to be as centralized as it currently is. I now work on<br>
   open source, linked data, AI and Knowledge Graphs<br>
-  and I LOVE it
+  and I <b>LOVE</b> it
 </p>
 
 <br>
