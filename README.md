@@ -42,11 +42,11 @@
 <br>
 
 <p align="center">
-  I look at how to build a decentralized architecture for media data,<br>
-  using the Solid ecosystem, where you store your own viewing and listening history<br>
-  in a personal data pod you control, instead of Netflix, Spotify, and every other<br>
-  platform each locking it away in their own silo. I spent months at imec-IDLab<br>
-  building a working prototype of it. It's the piece of work I'm proudest of so far.
+  my most recent project is a decentralized architecture for media data,<br>
+  using the Solid ecosystem, where users store their own viewing and listening history<br>
+  in a personal data pod they control, instead of Youtube, Spotify, and every other<br>
+  platform each locking it away in their own datasilo. I spent months at imec-IDLab<br>
+  building a working prototype of it using shared vocabs and keeping interoperability in mind. It's the piece    of work I'm proudest of so far and love to continue working on.
 </p>
 
 <br>
