@@ -2,87 +2,74 @@
   <img src="mario.gif" alt="Mario GIF" width="100%" />
 </p>
 
-
 <h1 align="center">Michiel Van de Velde</h1>
 
-
 <p align="center">
-  Cloud & DevOps Engineer · imec-IDLab · Open Source Enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=6A5AF9&center=true&vCenter=true&width=850&lines=CLOUD+%26+DEVOPS+ENGINEER;OPEN+SOURCE+ENTHUSIAST;WHIMSICAL+PROGRAMMER" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <i>A systems thinker learning in public.</i>
+</p>
 
-I build infrastructure that's **boring on purpose**, reproducible, automated, and well-documented. Currently working at **imec-IDLab**, one of the world's leading R&D hubs for semiconductors and other technology 5-10 years ahead of whats currently on the market, where I work on research infrastructure and a funded knowledge graph project on top of GitLab.
+<br>
 
----
+<p align="center">
+  I didn't study IT because I had interests in the field, it just started as a way to get a job. my interest grew from amazing mentors<br>
+  who let me build things, break them, had patience and helped me along my journey.
+</p>
 
-## Current Work — imec-IDLab
+<br>
 
-**Knowledge Graph layer for GitLab** *(funded research + paper)*
+<p align="center">
+  During my studies, a few of us built a <b>Tropical Disease Dashboard</b>: raw<br>
+  epidemiological data turned into something doctors could actually use to track<br>
+  outbreaks and act faster. We were just dumb students figuring it out as we went,<br>
+  but it ended up mattering to people who needed it, and that stuck with me.
+</p>
 
-Large engineering teams at imec self-host GitLab across multiple research groups. A single change can have significant downstream impact, but that impact isn't queryable anywhere.
+<br>
 
-I'm building a lightweight **RDF-based knowledge graph** that sits on top of GitLab workflows, capturing company-specific ontologies: which components are high-risk, who owns what, what depends on what. Semantic metadata is automatically generated during commits and CI/CD runs — making system relationships **explicit and machine-readable** for the first time.
+<p align="center">
+  It's also what pointed me towards open source. Wanting to build software that is<br>
+  useful to more than just one company or product. That interest brought me to<br>
+  <b>imec-IDLab</b>, where I got exposed to digital sovereignty, security, and the idea<br>
+  that the web doesn't have to be as centralized as it currently is. I now work on<br>
+  open source, linked data, AI and Knowledge Graphs<br>
+  and I LOVE it
+</p>
 
-For engineers and AI models this enables:
-- **Impact analysis** — what does this change affect?
-- **Smarter debugging** — trace issues across commits, pipelines, and dependencies
-- **Intelligent code review** — suggest reviewers based on impacted components
-- **AI that reasons over structure** — local models query the graph instead of guessing from raw logs
+<br>
 
-This work is part of broader research into improving AI systems with knowledge graphs and will be tied to a research publication.
+<p align="center">
+  I look at how to build a decentralized architecture for media data,<br>
+  using the Solid ecosystem, where you store your own viewing and listening history<br>
+  in a personal data pod you control, instead of Netflix, Spotify, and every other<br>
+  platform each locking it away in their own silo. I spent months at imec-IDLab<br>
+  building a working prototype of it. It's the piece of work I'm proudest of so far.
+</p>
 
----
+<br>
+<br>
 
-##  Featured Project: Hephaestus
+<h2 align="center">Tech Stack</h2>
 
-A fully automated development platform. One `terraform apply` from bare metal to a running DevOps stack, built as the foundation for the GitLab KG-platform i'm developing for Gitlab Co-Create 
+<div align="center">
 
-**What it provisions:**
-- **GitLab CE** — self-hosted Git, CI/CD, container registry
-- **Prometheus + Grafana** — full observability with live GitLab CI pipeline dashboards with alert systems in place
-- **GitLab Runners** — Docker-based CI executor on dedicated VM's
-- **Automated backups** — daily snapshots rsynced to an offsite node
+<img src="https://skillicons.dev/icons?i=terraform,ansible,linux,docker,kubernetes,gitlab,prometheus,grafana,python,ts,js,react,vue,git,github,css&theme=dark&perline=8" alt="Skill Icons" />
 
-**How it works:** Terraform provisions VMs on Proxmox → waits for SSH → generates Ansible inventory → runs 4 idempotent playbooks. No manual steps.
+</div>
 
-**Stack:** Terraform · Ansible · Prometheus · Grafana · Docker · Tailscale · Cloudflare Zero Trust
-
-→ [github.com/Michiel-VandeVelde/Hephaestus](https://github.com/Michiel-VandeVelde/Hephaestus)
-
----
-
-## 🛠️ Tech Stack
-
-**Infrastructure & Automation**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-E00000?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-F2C811?style=for-the-badge&logo=linux&logoColor=black)
-
-**Containers & Orchestration**
-
-![Docker](https://img.shields.io/badge/Docker-4F7DF3?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-6A5AF9?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**CI/CD & Observability**
-
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-**Knowledge & Semantic Web**
-
-![RDF](https://img.shields.io/badge/RDF-8A2BE2?style=for-the-badge&logo=w3c&logoColor=white)
-![SPARQL](https://img.shields.io/badge/SPARQL-00897B?style=for-the-badge&logo=w3c&logoColor=white)
-![Linked Data](https://img.shields.io/badge/Linked_Data-E65100?style=for-the-badge&logo=w3c&logoColor=white)
-
-*Microcredential, Linked Data — UGent, taught by Pieter Colpaert, Ruben Verborgh and Ruben Taelman*
-
----
+<br>
 
 ---
 
 <p align="center">
   Always open to collaboration on Cloud, DevOps & Open Source projects.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michiel-VandeVelde&theme=dark&hide_border=true&background=0D1117&ring=6A5AF9&fire=00e5ff&currStreakLabel=6A5AF9" alt="GitHub Streak" />
 </p>
