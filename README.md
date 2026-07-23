@@ -70,6 +70,3 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michiel-VandeVelde&theme=dark&hide_border=true&background=0D1117&ring=6A5AF9&fire=00e5ff&currStreakLabel=6A5AF9" alt="GitHub Streak" />
-</p>
